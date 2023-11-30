@@ -4,7 +4,7 @@
 
 @layer base {
   body {
-    @apply h-[300vh] font-poppins;
+    @apply font-poppins;
   }
 
   h1 {
