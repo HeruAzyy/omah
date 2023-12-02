@@ -19,3 +19,16 @@
 .fixed-nav {
   @apply fixed bg-white/10 shadow-md backdrop-blur-lg;
 }
+
+*::-webkit-scrollbar {
+  width: 0;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: transparent;
+  border: none;
+}
